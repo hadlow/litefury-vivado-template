@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Jun 12 09:53:32 2021
+# Process ID: 16725
+# Current directory: /home/billy/Projects/FPGA-A100T-2/project/project.runs/Top_util_vector_logic_0_1_synth_1
+# Command line: vivado -log Top_util_vector_logic_0_1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Top_util_vector_logic_0_1.tcl
+# Log file: /home/billy/Projects/FPGA-A100T-2/project/project.runs/Top_util_vector_logic_0_1_synth_1/Top_util_vector_logic_0_1.vds
+# Journal file: /home/billy/Projects/FPGA-A100T-2/project/project.runs/Top_util_vector_logic_0_1_synth_1/vivado.jou
+#-----------------------------------------------------------
+source Top_util_vector_logic_0_1.tcl -notrace
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP Top_util_vector_logic_0_1, cache-ID = 34d890b98c1928b4.
+INFO: [Common 17-206] Exiting Vivado at Sat Jun 12 09:53:39 2021...

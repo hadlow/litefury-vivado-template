@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Jun 12 09:51:43 2021
+# Process ID: 15531
+# Current directory: /home/billy/Projects/FPGA-A100T-2/project/project.runs/Top_c_counter_binary_0_0_synth_1
+# Command line: vivado -log Top_c_counter_binary_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Top_c_counter_binary_0_0.tcl
+# Log file: /home/billy/Projects/FPGA-A100T-2/project/project.runs/Top_c_counter_binary_0_0_synth_1/Top_c_counter_binary_0_0.vds
+# Journal file: /home/billy/Projects/FPGA-A100T-2/project/project.runs/Top_c_counter_binary_0_0_synth_1/vivado.jou
+#-----------------------------------------------------------
+source Top_c_counter_binary_0_0.tcl -notrace
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP Top_c_counter_binary_0_0, cache-ID = f658df92fb581a3c.
+INFO: [Common 17-206] Exiting Vivado at Sat Jun 12 09:51:49 2021...

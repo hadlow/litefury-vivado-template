@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Jun 12 09:51:43 2021
+# Process ID: 15535
+# Current directory: /home/billy/Projects/FPGA-A100T-2/project/project.runs/Top_xadc_wiz_1_0_synth_1
+# Command line: vivado -log Top_xadc_wiz_1_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Top_xadc_wiz_1_0.tcl
+# Log file: /home/billy/Projects/FPGA-A100T-2/project/project.runs/Top_xadc_wiz_1_0_synth_1/Top_xadc_wiz_1_0.vds
+# Journal file: /home/billy/Projects/FPGA-A100T-2/project/project.runs/Top_xadc_wiz_1_0_synth_1/vivado.jou
+#-----------------------------------------------------------
+source Top_xadc_wiz_1_0.tcl -notrace
